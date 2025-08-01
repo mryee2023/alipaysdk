@@ -3,7 +3,7 @@ package alipay
 import "fmt"
 
 const (
-	kSandboxURL        = "https://openapi.alipaydev.com/gateway.do"
+	kSandboxURL        = "https://openapi-sandbox.dl.alipaydev.com/gateway.do"
 	kProductionURL     = "https://openapi.alipay.com/gateway.do"
 	kProductionMAPIURL = "https://mapi.alipay.com/gateway.do"
 
